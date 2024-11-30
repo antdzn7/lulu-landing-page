@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "107802778936",
+    "project_id": "smartpd-d6db5",
+    "storage_bucket": "smartpd-d6db5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107802778936:android:5a72ae20f21a5bf95335cd",
+        "android_client_info": {
+          "package_name": "com.example.smart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSLEQ1JOS9EBlYe62D86TLRRpJG8CHObE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
